@@ -1,0 +1,10 @@
+# configuration for tests
+base.url=https://www.gmail.com
+time.out=30
+# Test Specials
+account=atomqaautotest@gmail.com
+password=atomqaautotest
+email.message=Hello, world!
+
+# this field can have two values: "org.openqa.selenium.firefox.FirefoxDriver" or "org.openqa.selenium.chrome.ChromeDriver"
+webdriver.name=org.openqa.selenium.chrome.ChromeDriver
